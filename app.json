@@ -2,7 +2,7 @@
   "expo": {
     "name": "bolt-expo-nativewind",
     "slug": "bolt-expo-nativewind",
-    "version": "1.0.0",
+    "version": "1.0.0", 
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -13,7 +13,7 @@
     },
     "web": {
       "bundler": "metro",
-      "output": "single",
+      "bundler": "metro"
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
